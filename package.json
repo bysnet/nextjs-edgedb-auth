@@ -14,7 +14,7 @@
     "generate:all": "pnpm generate:edgeql && pnpm generate:interfaces"
   },
   "dependencies": {
-    "@edgedb/auth-nextjs": "^0.3.1",
+    "@edgedb/auth-nextjs": "^0.4.1",
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.3",
     "@tailwindcss/forms": "^0.5.7",
